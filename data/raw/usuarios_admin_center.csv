@@ -1,0 +1,501 @@
+usuario_id,nome,email,departamento,licenca,custo_mensal_licenca,data_criacao_conta,data_ultimo_login
+U0001,Brenda Alves,brenda.alves@smartcorp.com.br,RH,VPN Corporativa,8.0,2025-09-29,2026-08-30
+U0002,Henry Gabriel Carvalho,henry.gabriel.carvalho@smartcorp.com.br,TI,Office 365 E1,18.0,2025-09-24,2026-08-30
+U0003,Ísis Borges,isis.borges@smartcorp.com.br,TI,VPN Corporativa,8.0,2025-05-02,2026-07-19
+U0004,Arthur Borges,arthur.borges@smartcorp.com.br,TI,Slack Business+,12.5,2024-04-26,2026-09-22
+U0005,Amanda Novais,amanda.novais@smartcorp.com.br,TI,Office 365 E1,18.0,2024-04-07,2026-09-03
+U0006,Ísis Leão,isis.leao@smartcorp.com.br,Juridico,Slack Business+,12.5,2024-04-28,2026-09-02
+U0007,Lara Abreu,lara.abreu@smartcorp.com.br,Marketing,Slack Business+,12.5,2025-10-16,2026-09-08
+U0008,Otávio Fernandes,otavio.fernandes@smartcorp.com.br,Financeiro,Salesforce CRM,75.0,2024-06-24,2026-08-22
+U0009,Lucca Caldeira,lucca.caldeira@smartcorp.com.br,Financeiro,VPN Corporativa,8.0,2023-12-23,2026-09-14
+U0010,Luiz Henrique Ferreira,luiz.henrique.ferreira@smartcorp.com.br,TI,Office 365 E1,18.0,2025-05-15,2026-01-02
+U0011,Raul Nascimento,raul.nascimento@smartcorp.com.br,RH,Office 365 E3,35.0,2024-01-24,2026-09-11
+U0012,Anna Liz Novaes,anna.liz.novaes@smartcorp.com.br,Juridico,Slack Business+,12.5,2024-07-10,2026-09-21
+U0013,Maria Cecília Oliveira,maria.cecilia.oliveira@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2024-03-31,2026-08-24
+U0014,Augusto Ribeiro,augusto.ribeiro@smartcorp.com.br,Juridico,Office 365 E3,35.0,2024-05-05,2026-08-27
+U0015,Bruno da Conceição,bruno.da.conceicao@smartcorp.com.br,Marketing,Slack Business+,12.5,2026-02-01,2026-07-30
+U0016,Lara Marques,lara.marques@smartcorp.com.br,Juridico,Office 365 E1,18.0,2025-06-16,2026-08-20
+U0017,Sr. Léo Fogaça,sr..leo.fogaca@smartcorp.com.br,Financeiro,Office 365 E1,18.0,2024-04-17,2026-08-17
+U0018,Brayan Pereira,brayan.pereira@smartcorp.com.br,Comercial,Power BI Pro,10.0,2025-06-15,2026-09-14
+U0019,Isabelly Castro,isabelly.castro@smartcorp.com.br,RH,VPN Corporativa,8.0,2024-12-25,2026-08-12
+U0020,Henry Rodrigues,henry.rodrigues@smartcorp.com.br,Juridico,Salesforce CRM,75.0,2024-08-09,2026-09-14
+U0021,Ian Andrade,ian.andrade@smartcorp.com.br,Juridico,VPN Corporativa,8.0,2025-12-01,2026-09-03
+U0022,Juliana Azevedo,juliana.azevedo@smartcorp.com.br,Financeiro,Office 365 E1,18.0,2024-04-19,2026-09-15
+U0023,Luara Cunha,luara.cunha@smartcorp.com.br,Juridico,Adobe Creative Cloud,60.0,2025-07-05,2026-08-24
+U0024,Natália Casa Grande,natalia.casa.grande@smartcorp.com.br,RH,VPN Corporativa,8.0,2024-06-11,2026-09-01
+U0025,Vitor Gabriel da Luz,vitor.gabriel.da.luz@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2025-10-05,2026-08-19
+U0026,Maria Liz Fonseca,maria.liz.fonseca@smartcorp.com.br,Comercial,Power BI Pro,10.0,2024-04-27,2026-09-12
+U0027,Thomas Monteiro,thomas.monteiro@smartcorp.com.br,Marketing,Salesforce CRM,75.0,2023-12-21,2026-08-24
+U0028,Daniel Cassiano,daniel.cassiano@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2025-06-07,2026-09-02
+U0029,Mariana Peixoto,mariana.peixoto@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2023-11-24,2026-07-12
+U0030,Nina Moura,nina.moura@smartcorp.com.br,Juridico,Office 365 E1,18.0,2024-05-29,2026-09-15
+U0031,Alexia Rodrigues,alexia.rodrigues@smartcorp.com.br,Marketing,Slack Business+,12.5,2025-09-08,2026-08-30
+U0032,Zoe Sá,zoe.sa@smartcorp.com.br,RH,Adobe Creative Cloud,60.0,2024-06-13,2026-07-28
+U0033,Manuela Camargo,manuela.camargo@smartcorp.com.br,Marketing,Office 365 E1,18.0,2024-07-10,2026-04-14
+U0034,Rafael Abreu,rafael.abreu@smartcorp.com.br,TI,Adobe Creative Cloud,60.0,2026-04-29,2026-09-21
+U0035,Sra. Sarah Teixeira,sra..sarah.teixeira@smartcorp.com.br,Juridico,Office 365 E1,18.0,2024-03-17,2026-08-28
+U0036,Kaique Porto,kaique.porto@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2025-02-08,2026-09-10
+U0037,Eduardo Freitas,eduardo.freitas@smartcorp.com.br,RH,Slack Business+,12.5,2025-10-20,2025-09-26
+U0038,Vitória Abreu,vitoria.abreu@smartcorp.com.br,Juridico,Slack Business+,12.5,2025-05-10,2026-08-22
+U0039,Allana Camargo,allana.camargo@smartcorp.com.br,Marketing,VPN Corporativa,8.0,2026-04-04,2026-08-25
+U0040,Isaque Araújo,isaque.araujo@smartcorp.com.br,RH,Power BI Pro,10.0,2024-05-18,2026-09-02
+U0041,Anna Liz Barros,anna.liz.barros@smartcorp.com.br,Comercial,Office 365 E3,35.0,2025-09-19,2026-09-17
+U0042,Vitor Vargas,vitor.vargas@smartcorp.com.br,Marketing,Office 365 E3,35.0,2024-01-25,2026-02-09
+U0043,Olívia Novaes,olivia.novaes@smartcorp.com.br,TI,Power BI Pro,10.0,2024-03-04,2026-08-24
+U0044,Mariana Cunha,mariana.cunha@smartcorp.com.br,Juridico,Power BI Pro,10.0,2026-04-04,2026-08-27
+U0045,Dra. Gabriela Silva,dra..gabriela.silva@smartcorp.com.br,RH,Slack Business+,12.5,2024-07-28,2026-09-18
+U0046,Maria Fernanda Macedo,maria.fernanda.macedo@smartcorp.com.br,Marketing,Power BI Pro,10.0,2026-03-06,2026-08-23
+U0047,Bárbara da Cruz,barbara.da.cruz@smartcorp.com.br,TI,Office 365 E3,35.0,2024-05-02,2026-09-07
+U0048,Sr. Yuri da Conceição,sr..yuri.da.conceicao@smartcorp.com.br,Financeiro,Office 365 E3,35.0,2025-04-30,2026-01-17
+U0049,Brayan Santos,brayan.santos@smartcorp.com.br,TI,Office 365 E3,35.0,2025-06-11,2026-09-04
+U0050,Bernardo Andrade,bernardo.andrade@smartcorp.com.br,TI,Office 365 E3,35.0,2026-01-25,2026-07-01
+U0051,Théo da Costa,theo.da.costa@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2024-06-25,2026-09-18
+U0052,Hadassa Nogueira,hadassa.nogueira@smartcorp.com.br,Financeiro,VPN Corporativa,8.0,2024-01-31,2026-09-05
+U0053,Olívia da Cruz,olivia.da.cruz@smartcorp.com.br,Comercial,Salesforce CRM,75.0,2025-11-11,2026-09-03
+U0054,Esther Brito,esther.brito@smartcorp.com.br,Juridico,Office 365 E1,18.0,2023-12-27,2026-03-13
+U0055,Maria Lima,maria.lima@smartcorp.com.br,Juridico,Salesforce CRM,75.0,2024-11-04,2026-09-01
+U0056,Srta. Beatriz Araújo,srta..beatriz.araujo@smartcorp.com.br,Comercial,Salesforce CRM,75.0,2024-10-27,2026-09-06
+U0057,Sr. Josué Correia,sr..josue.correia@smartcorp.com.br,RH,Office 365 E3,35.0,2024-03-29,2026-09-20
+U0058,Cecilia Lima,cecilia.lima@smartcorp.com.br,Marketing,Office 365 E3,35.0,2024-03-22,2026-09-15
+U0059,Isadora Barbosa,isadora.barbosa@smartcorp.com.br,Juridico,Office 365 E1,18.0,2024-12-06,2026-08-31
+U0060,Beatriz Aragão,beatriz.aragao@smartcorp.com.br,TI,Office 365 E3,35.0,2025-07-02,2026-08-25
+U0061,Alice Borges,alice.borges@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2026-04-01,2026-09-06
+U0062,Enzo Jesus,enzo.jesus@smartcorp.com.br,Marketing,Salesforce CRM,75.0,2025-01-17,2026-09-16
+U0063,Murilo Araújo,murilo.araujo@smartcorp.com.br,Marketing,Office 365 E1,18.0,2024-03-03,2026-06-27
+U0064,Mathias da Luz,mathias.da.luz@smartcorp.com.br,Comercial,Slack Business+,12.5,2026-04-01,2026-08-28
+U0065,Laura Lima,laura.lima@smartcorp.com.br,TI,Power BI Pro,10.0,2025-08-15,2026-09-19
+U0066,Dra. Raquel Cassiano,dra..raquel.cassiano@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2024-03-29,2026-09-09
+U0067,Benjamin Pacheco,benjamin.pacheco@smartcorp.com.br,Juridico,Adobe Creative Cloud,60.0,2025-09-23,2026-08-19
+U0068,Levi Araújo,levi.araujo@smartcorp.com.br,TI,VPN Corporativa,8.0,2023-11-10,2026-05-04
+U0069,Sarah Moura,sarah.moura@smartcorp.com.br,TI,Adobe Creative Cloud,60.0,2024-02-25,2026-07-02
+U0070,Anna Liz Cirino,anna.liz.cirino@smartcorp.com.br,Comercial,Office 365 E1,18.0,2023-11-29,2026-09-05
+U0071,Isaac Guerra,isaac.guerra@smartcorp.com.br,Comercial,Office 365 E1,18.0,2024-01-19,2026-09-14
+U0072,Isadora Pacheco,isadora.pacheco@smartcorp.com.br,Comercial,Office 365 E1,18.0,2025-05-06,2026-08-18
+U0073,Anna Liz Leão,anna.liz.leao@smartcorp.com.br,TI,Power BI Pro,10.0,2025-07-07,2026-07-18
+U0074,Stephany Dias,stephany.dias@smartcorp.com.br,TI,Office 365 E3,35.0,2026-04-09,2026-09-05
+U0075,Levi da Costa,levi.da.costa@smartcorp.com.br,Financeiro,Office 365 E3,35.0,2024-06-12,2026-02-22
+U0076,Kaique Marques,kaique.marques@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2024-08-01,2026-09-16
+U0077,Anthony Marques,anthony.marques@smartcorp.com.br,Comercial,Office 365 E3,35.0,2025-06-01,2026-09-22
+U0078,Beatriz Barbosa,beatriz.barbosa@smartcorp.com.br,RH,Salesforce CRM,75.0,2025-03-10,2025-11-03
+U0079,Julia Cardoso,julia.cardoso@smartcorp.com.br,Marketing,Adobe Creative Cloud,60.0,2026-04-08,2026-08-30
+U0080,Joaquim Freitas,joaquim.freitas@smartcorp.com.br,Financeiro,VPN Corporativa,8.0,2024-07-01,2026-08-13
+U0081,Ísis Santos,isis.santos@smartcorp.com.br,Marketing,Salesforce CRM,75.0,2024-07-19,2026-09-21
+U0082,Vitória Albuquerque,vitoria.albuquerque@smartcorp.com.br,RH,VPN Corporativa,8.0,2025-07-18,2026-08-30
+U0083,Letícia Ribeiro,leticia.ribeiro@smartcorp.com.br,Marketing,Office 365 E3,35.0,2024-01-03,2026-09-07
+U0084,João Camargo,joao.camargo@smartcorp.com.br,Marketing,Power BI Pro,10.0,2026-02-24,2026-09-21
+U0085,Dra. Daniela da Mata,dra..daniela.da.mata@smartcorp.com.br,Marketing,Office 365 E3,35.0,2024-06-28,2026-08-18
+U0086,Luigi Costela,luigi.costela@smartcorp.com.br,Comercial,Office 365 E3,35.0,2025-08-06,2026-09-15
+U0087,Thiago Mendonça,thiago.mendonca@smartcorp.com.br,Financeiro,Office 365 E3,35.0,2024-05-29,2025-09-05
+U0088,Caleb Porto,caleb.porto@smartcorp.com.br,TI,Slack Business+,12.5,2024-11-16,2026-09-03
+U0089,Augusto Abreu,augusto.abreu@smartcorp.com.br,Marketing,Adobe Creative Cloud,60.0,2024-08-19,2026-09-04
+U0090,João Castro,joao.castro@smartcorp.com.br,Juridico,Salesforce CRM,75.0,2025-09-29,2026-03-11
+U0091,Mariane Novais,mariane.novais@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2023-10-01,2026-09-14
+U0092,Dom Nogueira,dom.nogueira@smartcorp.com.br,Comercial,Office 365 E1,18.0,2023-10-27,2026-09-13
+U0093,Sr. Pedro Cardoso,sr..pedro.cardoso@smartcorp.com.br,TI,Salesforce CRM,75.0,2023-11-02,2026-05-17
+U0094,Sr. Luiz Henrique Costela,sr..luiz.henrique.costela@smartcorp.com.br,TI,Adobe Creative Cloud,60.0,2025-08-01,2026-09-04
+U0095,Bella Fogaça,bella.fogaca@smartcorp.com.br,RH,Office 365 E3,35.0,2025-11-06,2026-09-06
+U0096,Daniela da Costa,daniela.da.costa@smartcorp.com.br,Financeiro,Office 365 E1,18.0,2026-01-30,2026-05-19
+U0097,Noah Alves,noah.alves@smartcorp.com.br,Marketing,Salesforce CRM,75.0,2024-03-18,2026-09-08
+U0098,Dr. Josué da Mata,dr..josue.da.mata@smartcorp.com.br,Juridico,VPN Corporativa,8.0,2024-02-27,2026-08-28
+U0099,Srta. Maria Helena Andrade,srta..maria.helena.andrade@smartcorp.com.br,Marketing,Slack Business+,12.5,2026-01-24,2026-08-27
+U0100,Guilherme Marques,guilherme.marques@smartcorp.com.br,Financeiro,Salesforce CRM,75.0,2024-09-04,2026-05-01
+U0101,Henry Gabriel Alves,henry.gabriel.alves@smartcorp.com.br,Juridico,Salesforce CRM,75.0,2025-07-10,2026-09-19
+U0102,Luísa da Mota,luisa.da.mota@smartcorp.com.br,Marketing,Slack Business+,12.5,2026-01-29,2026-09-13
+U0103,Luiz Fernando Ramos,luiz.fernando.ramos@smartcorp.com.br,Juridico,Office 365 E1,18.0,2025-02-10,2026-08-09
+U0104,Zoe Farias,zoe.farias@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2026-04-14,2026-07-21
+U0105,José Pedro Cavalcanti,jose.pedro.cavalcanti@smartcorp.com.br,TI,Salesforce CRM,75.0,2025-04-22,2026-05-28
+U0106,Arthur Miguel Caldeira,arthur.miguel.caldeira@smartcorp.com.br,TI,VPN Corporativa,8.0,2025-05-08,2026-09-14
+U0107,Dr. Pedro Henrique Pereira,dr..pedro.henrique.pereira@smartcorp.com.br,Juridico,Office 365 E3,35.0,2026-05-29,2026-09-18
+U0108,Matheus Oliveira,matheus.oliveira@smartcorp.com.br,Marketing,Salesforce CRM,75.0,2024-03-29,2026-09-08
+U0109,Pedro Henrique Abreu,pedro.henrique.abreu@smartcorp.com.br,TI,VPN Corporativa,8.0,2025-02-20,2026-09-22
+U0110,Fernanda Fonseca,fernanda.fonseca@smartcorp.com.br,Marketing,Office 365 E3,35.0,2024-11-24,2026-04-08
+U0111,Luísa Pinto,luisa.pinto@smartcorp.com.br,Marketing,Office 365 E3,35.0,2024-07-30,2026-07-16
+U0112,Kaique Montenegro,kaique.montenegro@smartcorp.com.br,RH,Office 365 E1,18.0,2024-07-26,2026-09-21
+U0113,Lunna Guerra,lunna.guerra@smartcorp.com.br,TI,Salesforce CRM,75.0,2025-08-16,2026-07-03
+U0114,Carolina Correia,carolina.correia@smartcorp.com.br,Juridico,Salesforce CRM,75.0,2024-11-13,2026-09-15
+U0115,Emanuella Pimenta,emanuella.pimenta@smartcorp.com.br,Comercial,Office 365 E3,35.0,2025-04-10,2026-09-05
+U0116,Agatha da Rosa,agatha.da.rosa@smartcorp.com.br,Financeiro,Slack Business+,12.5,2024-07-03,2026-06-24
+U0117,Luna Martins,luna.martins@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2024-12-05,2026-08-28
+U0118,Hadassa Moraes,hadassa.moraes@smartcorp.com.br,RH,Adobe Creative Cloud,60.0,2025-01-05,2026-08-30
+U0119,Srta. Antonella da Paz,srta..antonella.da.paz@smartcorp.com.br,RH,Power BI Pro,10.0,2025-02-16,2026-02-16
+U0120,Lívia Borges,livia.borges@smartcorp.com.br,Comercial,Office 365 E1,18.0,2025-12-15,2026-08-16
+U0121,Leonardo Câmara,leonardo.camara@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2025-12-03,2026-09-07
+U0122,Apollo Aparecida,apollo.aparecida@smartcorp.com.br,RH,Office 365 E1,18.0,2024-05-22,2026-07-24
+U0123,Ana Sophia Marques,ana.sophia.marques@smartcorp.com.br,Financeiro,Salesforce CRM,75.0,2024-11-07,2026-06-28
+U0124,Evelyn Silva,evelyn.silva@smartcorp.com.br,Comercial,Office 365 E1,18.0,2025-08-15,2026-09-16
+U0125,Maria Liz da Cruz,maria.liz.da.cruz@smartcorp.com.br,RH,Salesforce CRM,75.0,2024-02-15,2026-09-20
+U0126,Srta. Bianca Vasconcelos,srta..bianca.vasconcelos@smartcorp.com.br,Juridico,Salesforce CRM,75.0,2024-11-18,2026-09-10
+U0127,Valentim Martins,valentim.martins@smartcorp.com.br,TI,Power BI Pro,10.0,2023-11-11,2026-08-23
+U0128,Davi Marques,davi.marques@smartcorp.com.br,Financeiro,Office 365 E3,35.0,2024-02-01,2026-08-06
+U0129,Vitória Novais,vitoria.novais@smartcorp.com.br,TI,Slack Business+,12.5,2025-05-07,2026-02-08
+U0130,Sofia Lima,sofia.lima@smartcorp.com.br,Juridico,Office 365 E3,35.0,2025-12-27,2026-09-11
+U0131,Melissa Castro,melissa.castro@smartcorp.com.br,Marketing,Power BI Pro,10.0,2025-10-01,2026-09-03
+U0132,Milena da Luz,milena.da.luz@smartcorp.com.br,Financeiro,Office 365 E3,35.0,2025-10-09,2026-09-04
+U0133,Kamilly Vargas,kamilly.vargas@smartcorp.com.br,TI,Salesforce CRM,75.0,2025-11-04,2026-09-09
+U0134,Isabella da Mota,isabella.da.mota@smartcorp.com.br,Juridico,Slack Business+,12.5,2024-12-03,2025-09-21
+U0135,Sra. Isabela da Mata,sra..isabela.da.mata@smartcorp.com.br,RH,VPN Corporativa,8.0,2024-08-21,2026-03-15
+U0136,Anna Liz Carvalho,anna.liz.carvalho@smartcorp.com.br,RH,Adobe Creative Cloud,60.0,2024-02-19,2026-09-01
+U0137,Daniela Santos,daniela.santos@smartcorp.com.br,TI,Slack Business+,12.5,2024-04-22,2026-08-26
+U0138,Maria Luísa Farias,maria.luisa.farias@smartcorp.com.br,RH,VPN Corporativa,8.0,2025-03-15,2025-10-07
+U0139,Ana Liz Costela,ana.liz.costela@smartcorp.com.br,Juridico,VPN Corporativa,8.0,2025-12-29,2026-09-10
+U0140,Alícia Teixeira,alicia.teixeira@smartcorp.com.br,Comercial,Salesforce CRM,75.0,2025-04-17,2026-09-16
+U0141,Alana Fogaça,alana.fogaca@smartcorp.com.br,Marketing,VPN Corporativa,8.0,2024-07-15,2026-03-26
+U0142,Mariah Nascimento,mariah.nascimento@smartcorp.com.br,TI,Slack Business+,12.5,2025-10-05,2026-09-05
+U0143,Hellena Mendonça,hellena.mendonca@smartcorp.com.br,Marketing,Salesforce CRM,75.0,2024-04-27,2026-09-09
+U0144,Raquel Alves,raquel.alves@smartcorp.com.br,Comercial,Slack Business+,12.5,2024-10-13,2026-09-08
+U0145,Maria Luiza Silveira,maria.luiza.silveira@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2024-03-04,2026-09-06
+U0146,Carolina Pinto,carolina.pinto@smartcorp.com.br,Juridico,Power BI Pro,10.0,2025-03-06,2026-03-29
+U0147,Amanda Barros,amanda.barros@smartcorp.com.br,Juridico,Office 365 E3,35.0,2025-06-23,2026-09-01
+U0148,Ravi Cirino,ravi.cirino@smartcorp.com.br,Financeiro,Slack Business+,12.5,2023-11-11,2026-08-27
+U0149,Lunna Cunha,lunna.cunha@smartcorp.com.br,Financeiro,VPN Corporativa,8.0,2024-12-17,2026-08-28
+U0150,Dr. João Lucas Sá,dr..joao.lucas.sa@smartcorp.com.br,Comercial,Office 365 E1,18.0,2026-04-26,2026-09-15
+U0151,Isis Barros,isis.barros@smartcorp.com.br,Comercial,Slack Business+,12.5,2025-01-02,2026-08-18
+U0152,Dra. Ana Júlia Ferreira,dra..ana.julia.ferreira@smartcorp.com.br,Financeiro,Adobe Creative Cloud,60.0,2024-05-02,2026-07-17
+U0153,Asafe Sá,asafe.sa@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2023-10-22,2026-09-07
+U0154,Guilherme Almeida,guilherme.almeida@smartcorp.com.br,TI,Office 365 E1,18.0,2025-06-01,2026-08-31
+U0155,Davi Lucas Melo,davi.lucas.melo@smartcorp.com.br,TI,Power BI Pro,10.0,2025-07-19,2026-06-27
+U0156,Helena Martins,helena.martins@smartcorp.com.br,Juridico,Power BI Pro,10.0,2025-08-18,2026-09-17
+U0157,Sr. Danilo Vasconcelos,sr..danilo.vasconcelos@smartcorp.com.br,Financeiro,Slack Business+,12.5,2025-12-16,2026-09-05
+U0158,Cauê Pacheco,caue.pacheco@smartcorp.com.br,Comercial,Power BI Pro,10.0,2023-10-17,2026-09-18
+U0159,Marcos Vinicius Gonçalves,marcos.vinicius.goncalves@smartcorp.com.br,Marketing,VPN Corporativa,8.0,2026-04-16,2026-09-05
+U0160,Breno Pastor,breno.pastor@smartcorp.com.br,Marketing,Salesforce CRM,75.0,2025-08-09,2025-11-09
+U0161,Isabelly Caldeira,isabelly.caldeira@smartcorp.com.br,Comercial,Power BI Pro,10.0,2025-08-16,2026-07-21
+U0162,Dante Vieira,dante.vieira@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2026-05-28,2025-11-07
+U0163,Luiz Felipe Nascimento,luiz.felipe.nascimento@smartcorp.com.br,RH,VPN Corporativa,8.0,2024-11-21,2026-07-25
+U0164,Sr. Thiago Ramos,sr..thiago.ramos@smartcorp.com.br,RH,Power BI Pro,10.0,2024-08-26,2026-09-02
+U0165,Rebeca Caldeira,rebeca.caldeira@smartcorp.com.br,Juridico,Power BI Pro,10.0,2024-11-26,2026-07-22
+U0166,Dr. Eduardo Lopes,dr..eduardo.lopes@smartcorp.com.br,Juridico,Office 365 E1,18.0,2024-03-15,2026-09-20
+U0167,Júlia Pimenta,julia.pimenta@smartcorp.com.br,RH,Salesforce CRM,75.0,2025-12-04,2026-09-12
+U0168,Rafaela Martins,rafaela.martins@smartcorp.com.br,Financeiro,Slack Business+,12.5,2024-11-28,2026-09-18
+U0169,Dra. Juliana Duarte,dra..juliana.duarte@smartcorp.com.br,Financeiro,Adobe Creative Cloud,60.0,2026-01-17,2026-08-31
+U0170,João Lucas Machado,joao.lucas.machado@smartcorp.com.br,Marketing,Office 365 E3,35.0,2024-05-21,2026-09-12
+U0171,Maria Helena Fernandes,maria.helena.fernandes@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2023-10-20,2026-09-16
+U0172,Sr. Ryan Cunha,sr..ryan.cunha@smartcorp.com.br,Juridico,Adobe Creative Cloud,60.0,2024-09-09,2025-08-28
+U0173,Luigi da Mota,luigi.da.mota@smartcorp.com.br,Marketing,Office 365 E3,35.0,2026-02-14,2026-07-05
+U0174,Sra. Alexia Moreira,sra..alexia.moreira@smartcorp.com.br,RH,Adobe Creative Cloud,60.0,2026-04-23,2026-08-23
+U0175,Isaque Silveira,isaque.silveira@smartcorp.com.br,Comercial,Salesforce CRM,75.0,2024-10-30,2026-06-29
+U0176,Isabella Sales,isabella.sales@smartcorp.com.br,Marketing,Slack Business+,12.5,2025-01-08,2026-07-19
+U0177,Sra. Melissa Vieira,sra..melissa.vieira@smartcorp.com.br,Comercial,Office 365 E1,18.0,2023-10-09,2026-09-14
+U0178,Henry Guerra,henry.guerra@smartcorp.com.br,Juridico,Adobe Creative Cloud,60.0,2025-08-11,2026-09-12
+U0179,Léo Melo,leo.melo@smartcorp.com.br,Financeiro,VPN Corporativa,8.0,2025-03-26,2026-07-07
+U0180,Dr. Yan Farias,dr..yan.farias@smartcorp.com.br,Marketing,Power BI Pro,10.0,2024-09-06,2026-09-18
+U0181,Júlia das Neves,julia.das.neves@smartcorp.com.br,Marketing,Slack Business+,12.5,2024-05-29,2026-09-10
+U0182,Gael Dias,gael.dias@smartcorp.com.br,Juridico,Slack Business+,12.5,2024-01-19,2026-09-20
+U0183,Ester Correia,ester.correia@smartcorp.com.br,Financeiro,Adobe Creative Cloud,60.0,2024-04-24,2026-09-08
+U0184,Kamilly Silveira,kamilly.silveira@smartcorp.com.br,Financeiro,Office 365 E3,35.0,2025-05-01,2026-09-12
+U0185,Larissa Brito,larissa.brito@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2025-12-29,2026-08-29
+U0186,Ian Fonseca,ian.fonseca@smartcorp.com.br,Comercial,Salesforce CRM,75.0,2024-03-18,2026-06-30
+U0187,Vitor Cardoso,vitor.cardoso@smartcorp.com.br,TI,Salesforce CRM,75.0,2024-06-21,2026-07-23
+U0188,Yuri da Rocha,yuri.da.rocha@smartcorp.com.br,RH,VPN Corporativa,8.0,2025-08-16,2026-08-23
+U0189,Samuel Caldeira,samuel.caldeira@smartcorp.com.br,Juridico,Office 365 E1,18.0,2026-02-07,2026-08-29
+U0190,Larissa Melo,larissa.melo@smartcorp.com.br,Financeiro,Office 365 E3,35.0,2025-01-10,2026-08-07
+U0191,Sr. Benjamim da Cunha,sr..benjamim.da.cunha@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2026-04-16,2026-09-18
+U0192,Bruna Azevedo,bruna.azevedo@smartcorp.com.br,Marketing,Office 365 E1,18.0,2024-10-25,2026-09-19
+U0193,Benjamim Cassiano,benjamim.cassiano@smartcorp.com.br,RH,Office 365 E1,18.0,2024-02-17,2026-09-14
+U0194,Liz Barros,liz.barros@smartcorp.com.br,Juridico,Office 365 E1,18.0,2026-06-07,2026-08-23
+U0195,Oliver Pereira,oliver.pereira@smartcorp.com.br,Financeiro,VPN Corporativa,8.0,2025-05-07,2026-08-27
+U0196,Heloisa Vasconcelos,heloisa.vasconcelos@smartcorp.com.br,RH,Salesforce CRM,75.0,2025-02-23,2026-09-22
+U0197,Melina da Rosa,melina.da.rosa@smartcorp.com.br,Comercial,Slack Business+,12.5,2026-01-25,2026-08-23
+U0198,Lorena Nunes,lorena.nunes@smartcorp.com.br,TI,Adobe Creative Cloud,60.0,2025-06-01,2026-03-14
+U0199,Beatriz Teixeira,beatriz.teixeira@smartcorp.com.br,Financeiro,Slack Business+,12.5,2024-04-15,2026-09-02
+U0200,João Ribeiro,joao.ribeiro@smartcorp.com.br,Juridico,Office 365 E3,35.0,2023-12-11,2026-09-13
+U0201,Erick Novaes,erick.novaes@smartcorp.com.br,Marketing,Slack Business+,12.5,2023-12-05,2026-07-03
+U0202,Nicolas Machado,nicolas.machado@smartcorp.com.br,Comercial,Power BI Pro,10.0,2025-08-08,2026-09-05
+U0203,Lavínia Andrade,lavinia.andrade@smartcorp.com.br,Juridico,VPN Corporativa,8.0,2024-05-09,2026-09-06
+U0204,Sra. Mirella Barbosa,sra..mirella.barbosa@smartcorp.com.br,Comercial,Salesforce CRM,75.0,2025-08-06,2026-09-09
+U0205,Gael Henrique Lima,gael.henrique.lima@smartcorp.com.br,Juridico,Office 365 E3,35.0,2024-01-14,2026-09-11
+U0206,Dom da Mata,dom.da.mata@smartcorp.com.br,Comercial,Power BI Pro,10.0,2025-12-23,2026-09-18
+U0207,Bento Cavalcante,bento.cavalcante@smartcorp.com.br,RH,Office 365 E1,18.0,2025-11-19,2026-07-12
+U0208,Laura Macedo,laura.macedo@smartcorp.com.br,Comercial,Slack Business+,12.5,2024-01-23,2026-07-19
+U0209,Sra. Maria Luiza da Mata,sra..maria.luiza.da.mata@smartcorp.com.br,Marketing,Adobe Creative Cloud,60.0,2025-02-01,2026-08-30
+U0210,Maysa Barros,maysa.barros@smartcorp.com.br,TI,Salesforce CRM,75.0,2025-05-09,2026-09-15
+U0211,Luna Pereira,luna.pereira@smartcorp.com.br,Comercial,Salesforce CRM,75.0,2024-05-28,2026-08-07
+U0212,Ian Rocha,ian.rocha@smartcorp.com.br,RH,Slack Business+,12.5,2026-01-01,2026-09-10
+U0213,Alícia Teixeira,alicia.teixeira@smartcorp.com.br,Financeiro,Office 365 E3,35.0,2025-07-22,2026-09-12
+U0214,Asafe Teixeira,asafe.teixeira@smartcorp.com.br,RH,Adobe Creative Cloud,60.0,2025-10-14,2026-08-28
+U0215,Stella Rezende,stella.rezende@smartcorp.com.br,Juridico,Salesforce CRM,75.0,2024-12-05,2026-09-03
+U0216,Fernando Pacheco,fernando.pacheco@smartcorp.com.br,Financeiro,Salesforce CRM,75.0,2024-11-29,2026-09-06
+U0217,Ayla Melo,ayla.melo@smartcorp.com.br,Comercial,Office 365 E3,35.0,2024-09-02,2026-09-09
+U0218,Dr. Cauã Castro,dr..caua.castro@smartcorp.com.br,Comercial,Slack Business+,12.5,2024-08-15,2026-07-09
+U0219,Sra. Laura Ribeiro,sra..laura.ribeiro@smartcorp.com.br,TI,VPN Corporativa,8.0,2026-04-20,2026-07-25
+U0220,Ana Carolina Marques,ana.carolina.marques@smartcorp.com.br,Juridico,Office 365 E3,35.0,2023-12-18,2026-09-10
+U0221,Lorenzo Camargo,lorenzo.camargo@smartcorp.com.br,RH,Office 365 E1,18.0,2026-05-15,2026-09-04
+U0222,Sophie Abreu,sophie.abreu@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2025-07-08,2026-09-11
+U0223,Nicole Jesus,nicole.jesus@smartcorp.com.br,Juridico,VPN Corporativa,8.0,2023-11-14,2026-09-11
+U0224,Maria Cecília Pinto,maria.cecilia.pinto@smartcorp.com.br,Financeiro,Adobe Creative Cloud,60.0,2025-10-14,2026-09-14
+U0225,Melina Teixeira,melina.teixeira@smartcorp.com.br,TI,Office 365 E3,35.0,2023-11-12,2026-08-02
+U0226,Yan Cardoso,yan.cardoso@smartcorp.com.br,Juridico,VPN Corporativa,8.0,2026-04-02,2026-08-29
+U0227,Raquel Campos,raquel.campos@smartcorp.com.br,Comercial,Office 365 E1,18.0,2023-10-20,2026-08-30
+U0228,Isabella Santos,isabella.santos@smartcorp.com.br,Marketing,Salesforce CRM,75.0,2024-02-26,2026-07-05
+U0229,Alice Novaes,alice.novaes@smartcorp.com.br,Financeiro,Slack Business+,12.5,2024-11-01,2026-09-19
+U0230,Danilo Martins,danilo.martins@smartcorp.com.br,RH,Salesforce CRM,75.0,2026-04-22,2026-09-17
+U0231,Daniela Monteiro,daniela.monteiro@smartcorp.com.br,RH,Office 365 E3,35.0,2026-04-07,2026-08-14
+U0232,Thomas Santos,thomas.santos@smartcorp.com.br,RH,Office 365 E3,35.0,2024-06-20,2025-09-13
+U0233,Olivia da Cruz,olivia.da.cruz@smartcorp.com.br,TI,VPN Corporativa,8.0,2024-12-19,2025-10-15
+U0234,Matheus Correia,matheus.correia@smartcorp.com.br,Comercial,Power BI Pro,10.0,2026-03-28,2026-09-13
+U0235,Catarina Azevedo,catarina.azevedo@smartcorp.com.br,TI,Adobe Creative Cloud,60.0,2024-06-23,2026-09-17
+U0236,Manuela Viana,manuela.viana@smartcorp.com.br,TI,Salesforce CRM,75.0,2025-02-08,2025-10-22
+U0237,João Miguel Silveira,joao.miguel.silveira@smartcorp.com.br,TI,Power BI Pro,10.0,2024-07-15,2026-09-07
+U0238,Rebeca Cassiano,rebeca.cassiano@smartcorp.com.br,Financeiro,Slack Business+,12.5,2024-12-09,2026-09-21
+U0239,Manuella Farias,manuella.farias@smartcorp.com.br,TI,Office 365 E1,18.0,2025-03-24,2026-08-03
+U0240,Maria Flor Marques,maria.flor.marques@smartcorp.com.br,Comercial,Office 365 E1,18.0,2026-04-08,2026-08-29
+U0241,Isaque Oliveira,isaque.oliveira@smartcorp.com.br,Financeiro,Slack Business+,12.5,2024-10-07,2026-09-03
+U0242,Ana Clara Dias,ana.clara.dias@smartcorp.com.br,Comercial,Power BI Pro,10.0,2025-10-02,2026-09-08
+U0243,Sra. Maria Isis Ribeiro,sra..maria.isis.ribeiro@smartcorp.com.br,RH,Salesforce CRM,75.0,2025-11-19,2026-07-26
+U0244,Clarice Monteiro,clarice.monteiro@smartcorp.com.br,Juridico,Slack Business+,12.5,2026-05-09,2026-09-03
+U0245,Theodoro Pastor,theodoro.pastor@smartcorp.com.br,Juridico,Office 365 E3,35.0,2024-08-17,2026-03-09
+U0246,Pedro Lucas Brito,pedro.lucas.brito@smartcorp.com.br,Financeiro,Office 365 E1,18.0,2025-02-26,2026-09-20
+U0247,Alice Silveira,alice.silveira@smartcorp.com.br,Financeiro,Office 365 E1,18.0,2024-02-12,2026-09-20
+U0248,Daniela Barbosa,daniela.barbosa@smartcorp.com.br,Marketing,Office 365 E3,35.0,2025-01-01,2026-08-31
+U0249,Lucca Pinto,lucca.pinto@smartcorp.com.br,RH,Adobe Creative Cloud,60.0,2025-08-11,2026-09-15
+U0250,Anna Liz Farias,anna.liz.farias@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2026-01-17,2026-08-26
+U0251,Maria Helena Dias,maria.helena.dias@smartcorp.com.br,RH,Office 365 E3,35.0,2025-06-07,2026-08-24
+U0252,Ágatha Andrade,agatha.andrade@smartcorp.com.br,Juridico,Power BI Pro,10.0,2025-05-28,2026-07-16
+U0253,João Pedro da Conceição,joao.pedro.da.conceicao@smartcorp.com.br,TI,Power BI Pro,10.0,2025-10-04,2025-11-18
+U0254,Beatriz Teixeira,beatriz.teixeira@smartcorp.com.br,RH,Slack Business+,12.5,2025-06-14,2026-09-18
+U0255,Pedro Miguel Cavalcante,pedro.miguel.cavalcante@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2025-08-13,2026-09-21
+U0256,Augusto Duarte,augusto.duarte@smartcorp.com.br,Marketing,Power BI Pro,10.0,2025-11-22,2026-08-30
+U0257,Luiz Henrique Freitas,luiz.henrique.freitas@smartcorp.com.br,Juridico,Salesforce CRM,75.0,2024-11-23,2026-09-08
+U0258,Vinícius Jesus,vinicius.jesus@smartcorp.com.br,RH,Salesforce CRM,75.0,2025-04-07,2026-08-23
+U0259,Enzo Gabriel Cavalcanti,enzo.gabriel.cavalcanti@smartcorp.com.br,TI,Slack Business+,12.5,2023-12-09,2026-09-08
+U0260,Isabella Monteiro,isabella.monteiro@smartcorp.com.br,Juridico,Slack Business+,12.5,2026-03-19,2026-09-09
+U0261,Igor Martins,igor.martins@smartcorp.com.br,TI,Salesforce CRM,75.0,2025-06-18,2026-09-22
+U0262,Jade Rios,jade.rios@smartcorp.com.br,Marketing,Office 365 E1,18.0,2023-10-01,2025-09-02
+U0263,Laura Rocha,laura.rocha@smartcorp.com.br,Marketing,Office 365 E3,35.0,2025-03-19,2026-02-06
+U0264,Pedro Miguel Ferreira,pedro.miguel.ferreira@smartcorp.com.br,Comercial,Office 365 E3,35.0,2026-06-01,2026-08-11
+U0265,Otávio Sales,otavio.sales@smartcorp.com.br,RH,Slack Business+,12.5,2024-05-28,2026-08-24
+U0266,Gael Henrique Gomes,gael.henrique.gomes@smartcorp.com.br,Juridico,Office 365 E1,18.0,2026-01-18,2025-11-12
+U0267,Isaac Garcia,isaac.garcia@smartcorp.com.br,Comercial,Power BI Pro,10.0,2025-04-13,2026-09-20
+U0268,Laís Sampaio,lais.sampaio@smartcorp.com.br,Juridico,Salesforce CRM,75.0,2024-07-12,2026-09-12
+U0269,Maria Laura da Mota,maria.laura.da.mota@smartcorp.com.br,Comercial,Office 365 E3,35.0,2023-09-30,2026-08-01
+U0270,Ana Julia Pereira,ana.julia.pereira@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2025-10-03,2026-09-01
+U0271,Ian Pereira,ian.pereira@smartcorp.com.br,Comercial,Power BI Pro,10.0,2025-11-28,2026-08-20
+U0272,Gabriel Pinto,gabriel.pinto@smartcorp.com.br,TI,Office 365 E3,35.0,2024-05-28,2026-09-12
+U0273,Dra. Cecilia Pires,dra..cecilia.pires@smartcorp.com.br,TI,Power BI Pro,10.0,2023-12-27,2026-09-06
+U0274,Ana Cecília das Neves,ana.cecilia.das.neves@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2025-11-15,2026-07-24
+U0275,Luiz Otávio Siqueira,luiz.otavio.siqueira@smartcorp.com.br,Marketing,Office 365 E3,35.0,2024-01-30,2026-09-11
+U0276,Luan Souza,luan.souza@smartcorp.com.br,TI,Power BI Pro,10.0,2024-11-08,2026-09-08
+U0277,Davi Lucca Viana,davi.lucca.viana@smartcorp.com.br,RH,Office 365 E1,18.0,2025-03-12,2026-09-18
+U0278,Dr. Enzo da Cunha,dr..enzo.da.cunha@smartcorp.com.br,TI,Adobe Creative Cloud,60.0,2026-03-20,2026-07-22
+U0279,Laís Souza,lais.souza@smartcorp.com.br,Juridico,Office 365 E3,35.0,2026-02-04,2026-02-21
+U0280,Ravi Lucca Barbosa,ravi.lucca.barbosa@smartcorp.com.br,Marketing,Office 365 E1,18.0,2024-02-09,2026-09-22
+U0281,Miguel Novais,miguel.novais@smartcorp.com.br,TI,Adobe Creative Cloud,60.0,2024-09-20,2026-08-27
+U0282,Alice da Luz,alice.da.luz@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2025-03-09,2026-04-06
+U0283,Maria Eduarda Rocha,maria.eduarda.rocha@smartcorp.com.br,RH,VPN Corporativa,8.0,2025-10-07,2026-08-31
+U0284,Mateus Porto,mateus.porto@smartcorp.com.br,Financeiro,Adobe Creative Cloud,60.0,2026-04-15,2026-07-23
+U0285,Igor Melo,igor.melo@smartcorp.com.br,Financeiro,Adobe Creative Cloud,60.0,2023-10-16,2026-09-10
+U0286,Lunna Pimenta,lunna.pimenta@smartcorp.com.br,Financeiro,Slack Business+,12.5,2024-04-29,2026-08-25
+U0287,Ravi Sampaio,ravi.sampaio@smartcorp.com.br,Comercial,Power BI Pro,10.0,2024-07-18,2026-08-29
+U0288,Bruna Carvalho,bruna.carvalho@smartcorp.com.br,RH,Salesforce CRM,75.0,2023-11-06,2025-10-07
+U0289,Kevin Monteiro,kevin.monteiro@smartcorp.com.br,RH,Power BI Pro,10.0,2024-01-15,2026-08-30
+U0290,Vitor Gabriel Carvalho,vitor.gabriel.carvalho@smartcorp.com.br,Comercial,Power BI Pro,10.0,2024-10-13,2026-09-01
+U0291,Dr. Eduardo Leão,dr..eduardo.leao@smartcorp.com.br,Comercial,Power BI Pro,10.0,2025-07-05,2026-09-05
+U0292,Maria Luísa da Mota,maria.luisa.da.mota@smartcorp.com.br,Marketing,Salesforce CRM,75.0,2023-10-24,2026-08-29
+U0293,Sr. Pedro Miguel Macedo,sr..pedro.miguel.macedo@smartcorp.com.br,Financeiro,Adobe Creative Cloud,60.0,2026-04-25,2026-09-12
+U0294,Sr. Léo Nogueira,sr..leo.nogueira@smartcorp.com.br,Financeiro,VPN Corporativa,8.0,2026-03-08,2026-09-10
+U0295,Maria Alice Araújo,maria.alice.araujo@smartcorp.com.br,RH,Power BI Pro,10.0,2024-10-22,2026-08-20
+U0296,Davi Marques,davi.marques@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2023-12-22,2026-08-24
+U0297,Antônio Aragão,antonio.aragao@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2025-11-13,2026-04-07
+U0298,Davi Lucas Viana,davi.lucas.viana@smartcorp.com.br,Marketing,Office 365 E3,35.0,2025-04-06,2026-08-23
+U0299,Yuri Costela,yuri.costela@smartcorp.com.br,Comercial,Salesforce CRM,75.0,2025-04-28,2026-06-28
+U0300,Lucas Vasconcelos,lucas.vasconcelos@smartcorp.com.br,TI,Office 365 E3,35.0,2024-02-15,2026-09-08
+U0301,Agatha da Mota,agatha.da.mota@smartcorp.com.br,Juridico,VPN Corporativa,8.0,2026-01-23,2026-08-26
+U0302,Davi Lucca Nogueira,davi.lucca.nogueira@smartcorp.com.br,RH,Office 365 E1,18.0,2024-05-28,2026-08-28
+U0303,Daniel Ribeiro,daniel.ribeiro@smartcorp.com.br,Juridico,Salesforce CRM,75.0,2026-01-31,2026-09-10
+U0304,Anthony Gabriel Fogaça,anthony.gabriel.fogaca@smartcorp.com.br,Juridico,Office 365 E3,35.0,2025-11-16,2026-06-29
+U0305,Lorenzo Almeida,lorenzo.almeida@smartcorp.com.br,RH,Power BI Pro,10.0,2024-03-13,2026-08-23
+U0306,Davi Lucas Sousa,davi.lucas.sousa@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2024-11-14,2026-07-05
+U0307,Benício Melo,benicio.melo@smartcorp.com.br,TI,Power BI Pro,10.0,2024-12-11,2026-09-03
+U0308,Sr. Rael Montenegro,sr..rael.montenegro@smartcorp.com.br,RH,Office 365 E1,18.0,2024-04-29,2026-08-24
+U0309,Ana Clara Siqueira,ana.clara.siqueira@smartcorp.com.br,TI,Office 365 E1,18.0,2025-11-10,2026-07-26
+U0310,Stephany da Rosa,stephany.da.rosa@smartcorp.com.br,TI,Power BI Pro,10.0,2024-12-21,2026-08-26
+U0311,Bento Mendes,bento.mendes@smartcorp.com.br,TI,Adobe Creative Cloud,60.0,2026-01-12,2026-09-13
+U0312,Bianca Mendonça,bianca.mendonca@smartcorp.com.br,RH,Office 365 E3,35.0,2025-08-31,2026-09-21
+U0313,Ana Sophia Barros,ana.sophia.barros@smartcorp.com.br,Financeiro,Salesforce CRM,75.0,2024-08-07,2026-09-18
+U0314,Benício Cardoso,benicio.cardoso@smartcorp.com.br,Financeiro,Slack Business+,12.5,2024-06-21,2026-09-01
+U0315,Lunna Garcia,lunna.garcia@smartcorp.com.br,Comercial,Office 365 E1,18.0,2026-06-08,2026-09-03
+U0316,Laís Marques,lais.marques@smartcorp.com.br,Marketing,Slack Business+,12.5,2025-02-06,2026-09-07
+U0317,Beatriz Vieira,beatriz.vieira@smartcorp.com.br,RH,Office 365 E1,18.0,2025-08-20,2026-09-02
+U0318,Helena Lopes,helena.lopes@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2024-12-14,2026-09-22
+U0319,Noah Fernandes,noah.fernandes@smartcorp.com.br,TI,Salesforce CRM,75.0,2025-12-24,2026-09-17
+U0320,Maria Vitória Siqueira,maria.vitoria.siqueira@smartcorp.com.br,RH,Adobe Creative Cloud,60.0,2023-12-25,2025-08-27
+U0321,Luara Rios,luara.rios@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2024-06-01,2026-02-15
+U0322,Renan Azevedo,renan.azevedo@smartcorp.com.br,Comercial,Power BI Pro,10.0,2023-12-21,2026-09-10
+U0323,Caleb Lopes,caleb.lopes@smartcorp.com.br,RH,Office 365 E3,35.0,2023-12-27,2026-09-04
+U0324,Sra. Caroline Novais,sra..caroline.novais@smartcorp.com.br,RH,Slack Business+,12.5,2023-11-20,2026-08-31
+U0325,Luísa Rios,luisa.rios@smartcorp.com.br,RH,Office 365 E3,35.0,2024-01-21,2025-12-03
+U0326,Dr. Benjamim da Paz,dr..benjamim.da.paz@smartcorp.com.br,Juridico,Office 365 E3,35.0,2025-05-12,2026-09-01
+U0327,Sr. Thiago Cunha,sr..thiago.cunha@smartcorp.com.br,RH,Office 365 E3,35.0,2024-02-23,2025-10-12
+U0328,Heloisa Caldeira,heloisa.caldeira@smartcorp.com.br,RH,Power BI Pro,10.0,2024-09-04,2026-07-15
+U0329,Maria Eduarda Camargo,maria.eduarda.camargo@smartcorp.com.br,RH,Office 365 E1,18.0,2025-10-20,2026-09-03
+U0330,Heloisa Lima,heloisa.lima@smartcorp.com.br,Juridico,VPN Corporativa,8.0,2026-01-10,2026-07-04
+U0331,Amanda Pereira,amanda.pereira@smartcorp.com.br,TI,VPN Corporativa,8.0,2026-04-04,2026-07-13
+U0332,Sra. Ana Cirino,sra..ana.cirino@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2024-06-20,2026-09-13
+U0333,Lucca Ferreira,lucca.ferreira@smartcorp.com.br,Financeiro,Office 365 E3,35.0,2023-09-28,2026-08-30
+U0334,Murilo Azevedo,murilo.azevedo@smartcorp.com.br,Juridico,Office 365 E3,35.0,2024-02-10,2026-01-07
+U0335,Ana Borges,ana.borges@smartcorp.com.br,Marketing,Adobe Creative Cloud,60.0,2025-10-04,2026-09-18
+U0336,Marcos Vinicius Leão,marcos.vinicius.leao@smartcorp.com.br,RH,Salesforce CRM,75.0,2024-12-16,2026-08-24
+U0337,Léo das Neves,leo.das.neves@smartcorp.com.br,Comercial,Power BI Pro,10.0,2025-09-09,2026-08-24
+U0338,Antonella Aragão,antonella.aragao@smartcorp.com.br,RH,Power BI Pro,10.0,2024-02-23,2026-08-26
+U0339,Ana Julia Rocha,ana.julia.rocha@smartcorp.com.br,TI,Power BI Pro,10.0,2023-12-12,2026-08-23
+U0340,Mariana Mendonça,mariana.mendonca@smartcorp.com.br,Juridico,Office 365 E1,18.0,2025-05-18,2026-08-08
+U0341,Júlia Cunha,julia.cunha@smartcorp.com.br,Marketing,VPN Corporativa,8.0,2025-10-12,2026-09-10
+U0342,Luiz Felipe Lopes,luiz.felipe.lopes@smartcorp.com.br,TI,Salesforce CRM,75.0,2024-01-10,2026-09-10
+U0343,Raquel Moura,raquel.moura@smartcorp.com.br,RH,Salesforce CRM,75.0,2025-07-17,2026-09-08
+U0344,Henry Gonçalves,henry.goncalves@smartcorp.com.br,Marketing,VPN Corporativa,8.0,2026-05-29,2026-08-06
+U0345,André Costela,andre.costela@smartcorp.com.br,TI,Adobe Creative Cloud,60.0,2024-07-18,2026-07-30
+U0346,Davi Miguel Teixeira,davi.miguel.teixeira@smartcorp.com.br,Marketing,VPN Corporativa,8.0,2024-06-02,2026-09-22
+U0347,Sr. André Monteiro,sr..andre.monteiro@smartcorp.com.br,Financeiro,Slack Business+,12.5,2025-10-05,2026-09-03
+U0348,Davi Lucca Garcia,davi.lucca.garcia@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2025-03-05,2026-08-27
+U0349,Theodoro Novais,theodoro.novais@smartcorp.com.br,TI,VPN Corporativa,8.0,2025-12-30,2026-09-09
+U0350,Sr. Miguel Sousa,sr..miguel.sousa@smartcorp.com.br,RH,Office 365 E1,18.0,2023-11-03,2026-09-21
+U0351,Raul Barbosa,raul.barbosa@smartcorp.com.br,Marketing,Adobe Creative Cloud,60.0,2026-01-27,2026-09-15
+U0352,Mariane Oliveira,mariane.oliveira@smartcorp.com.br,Juridico,Office 365 E1,18.0,2024-10-28,2026-09-11
+U0353,Maria Vitória da Rocha,maria.vitoria.da.rocha@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2024-01-14,2026-09-05
+U0354,Luan Cavalcante,luan.cavalcante@smartcorp.com.br,Comercial,Slack Business+,12.5,2025-11-28,2026-08-13
+U0355,Natália Sales,natalia.sales@smartcorp.com.br,Marketing,VPN Corporativa,8.0,2026-03-26,2026-09-07
+U0356,Pedro Henrique Caldeira,pedro.henrique.caldeira@smartcorp.com.br,TI,Adobe Creative Cloud,60.0,2024-05-21,2026-01-31
+U0357,Maria Liz Moura,maria.liz.moura@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2023-12-09,2026-09-08
+U0358,Lucca Câmara,lucca.camara@smartcorp.com.br,Juridico,Office 365 E1,18.0,2024-08-18,2026-08-16
+U0359,Breno Moraes,breno.moraes@smartcorp.com.br,RH,Salesforce CRM,75.0,2025-06-13,2026-09-02
+U0360,Sophia Correia,sophia.correia@smartcorp.com.br,TI,Office 365 E3,35.0,2026-03-12,2026-09-16
+U0361,Dr. Diogo da Costa,dr..diogo.da.costa@smartcorp.com.br,Juridico,Power BI Pro,10.0,2024-01-02,2026-08-17
+U0362,Gael Henrique Cavalcanti,gael.henrique.cavalcanti@smartcorp.com.br,TI,Office 365 E1,18.0,2025-05-13,2026-09-03
+U0363,Ana Vitória Cavalcanti,ana.vitoria.cavalcanti@smartcorp.com.br,Financeiro,Office 365 E3,35.0,2026-04-26,2026-08-07
+U0364,Sabrina Martins,sabrina.martins@smartcorp.com.br,Marketing,Power BI Pro,10.0,2025-10-12,2026-09-20
+U0365,Melissa Rodrigues,melissa.rodrigues@smartcorp.com.br,Financeiro,Office 365 E1,18.0,2026-03-30,2026-08-27
+U0366,Luna Pires,luna.pires@smartcorp.com.br,Marketing,Salesforce CRM,75.0,2024-08-01,2026-07-03
+U0367,Ana Lívia Melo,ana.livia.melo@smartcorp.com.br,Financeiro,Office 365 E3,35.0,2024-12-05,2026-09-18
+U0368,João Guilherme Pastor,joao.guilherme.pastor@smartcorp.com.br,TI,Slack Business+,12.5,2023-11-16,2026-09-17
+U0369,Ana Sophia das Neves,ana.sophia.das.neves@smartcorp.com.br,TI,VPN Corporativa,8.0,2024-12-24,2026-08-14
+U0370,Benjamin Freitas,benjamin.freitas@smartcorp.com.br,Marketing,Salesforce CRM,75.0,2025-12-28,2026-08-07
+U0371,Caleb Pimenta,caleb.pimenta@smartcorp.com.br,TI,Salesforce CRM,75.0,2025-05-05,2026-09-14
+U0372,Nicole Pacheco,nicole.pacheco@smartcorp.com.br,TI,Office 365 E1,18.0,2025-03-27,2026-07-20
+U0373,Srta. Milena Oliveira,srta..milena.oliveira@smartcorp.com.br,RH,VPN Corporativa,8.0,2025-07-02,2026-09-08
+U0374,Dr. Theodoro Cassiano,dr..theodoro.cassiano@smartcorp.com.br,Marketing,Slack Business+,12.5,2026-05-02,2026-09-08
+U0375,Bella Fernandes,bella.fernandes@smartcorp.com.br,Juridico,Office 365 E1,18.0,2026-05-27,2026-06-01
+U0376,Thiago Ramos,thiago.ramos@smartcorp.com.br,RH,Power BI Pro,10.0,2024-03-11,2025-09-30
+U0377,Pedro Lucas Macedo,pedro.lucas.macedo@smartcorp.com.br,TI,Adobe Creative Cloud,60.0,2025-02-24,2026-09-22
+U0378,Eduarda Fonseca,eduarda.fonseca@smartcorp.com.br,Juridico,Adobe Creative Cloud,60.0,2024-09-27,2026-07-26
+U0379,Mathias Jesus,mathias.jesus@smartcorp.com.br,Comercial,Office 365 E3,35.0,2025-11-01,2026-08-24
+U0380,Ana Júlia Vieira,ana.julia.vieira@smartcorp.com.br,Marketing,Office 365 E3,35.0,2025-06-11,2026-08-02
+U0381,Sr. Lucas Brito,sr..lucas.brito@smartcorp.com.br,Marketing,Office 365 E1,18.0,2025-03-30,2026-09-14
+U0382,Larissa da Cunha,larissa.da.cunha@smartcorp.com.br,RH,VPN Corporativa,8.0,2025-09-11,2026-08-31
+U0383,Clarice Farias,clarice.farias@smartcorp.com.br,RH,Adobe Creative Cloud,60.0,2023-12-12,2025-09-25
+U0384,Cecília Ferreira,cecilia.ferreira@smartcorp.com.br,TI,Adobe Creative Cloud,60.0,2024-07-26,2026-09-09
+U0385,Maria Júlia Cardoso,maria.julia.cardoso@smartcorp.com.br,Juridico,Power BI Pro,10.0,2025-05-06,2026-06-29
+U0386,Leonardo Novais,leonardo.novais@smartcorp.com.br,Juridico,VPN Corporativa,8.0,2024-10-01,2026-07-18
+U0387,Sr. Vinicius Borges,sr..vinicius.borges@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2025-06-26,2026-09-08
+U0388,Sophia Fonseca,sophia.fonseca@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2023-10-10,2026-09-08
+U0389,Fernando Cunha,fernando.cunha@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2024-08-27,2026-08-02
+U0390,Evelyn Câmara,evelyn.camara@smartcorp.com.br,Financeiro,Salesforce CRM,75.0,2026-06-13,2026-09-11
+U0391,Breno da Rocha,breno.da.rocha@smartcorp.com.br,TI,VPN Corporativa,8.0,2026-01-10,2026-05-20
+U0392,Thiago Vargas,thiago.vargas@smartcorp.com.br,TI,Power BI Pro,10.0,2025-03-12,2026-09-09
+U0393,Dra. Ana Carolina Ribeiro,dra..ana.carolina.ribeiro@smartcorp.com.br,Financeiro,VPN Corporativa,8.0,2024-08-22,2026-07-02
+U0394,Caroline Peixoto,caroline.peixoto@smartcorp.com.br,Marketing,Slack Business+,12.5,2024-10-01,2026-08-23
+U0395,Fernando Sales,fernando.sales@smartcorp.com.br,Comercial,Slack Business+,12.5,2025-10-29,2026-09-19
+U0396,Pedro Lucas Aparecida,pedro.lucas.aparecida@smartcorp.com.br,Comercial,Salesforce CRM,75.0,2024-11-04,2026-07-05
+U0397,Isabela Macedo,isabela.macedo@smartcorp.com.br,RH,Power BI Pro,10.0,2025-05-22,2026-05-28
+U0398,Sra. Isabel Nascimento,sra..isabel.nascimento@smartcorp.com.br,Marketing,Slack Business+,12.5,2024-05-17,2026-09-19
+U0399,Evelyn Freitas,evelyn.freitas@smartcorp.com.br,Comercial,Slack Business+,12.5,2025-07-28,2026-09-01
+U0400,Maysa Martins,maysa.martins@smartcorp.com.br,Marketing,Office 365 E1,18.0,2025-10-27,2026-07-31
+U0401,Sarah Moura,sarah.moura@smartcorp.com.br,Marketing,Salesforce CRM,75.0,2024-11-11,2026-09-14
+U0402,Guilherme Pereira,guilherme.pereira@smartcorp.com.br,Marketing,Office 365 E1,18.0,2024-02-06,2026-06-29
+U0403,Benjamim Ramos,benjamim.ramos@smartcorp.com.br,Juridico,Power BI Pro,10.0,2025-01-12,2026-07-14
+U0404,Sr. Valentim Campos,sr..valentim.campos@smartcorp.com.br,Juridico,VPN Corporativa,8.0,2024-07-01,2026-09-03
+U0405,João Gabriel Machado,joao.gabriel.machado@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2026-03-11,2026-09-22
+U0406,Pedro Henrique Borges,pedro.henrique.borges@smartcorp.com.br,RH,Salesforce CRM,75.0,2026-04-21,2026-08-03
+U0407,Rael Ferreira,rael.ferreira@smartcorp.com.br,Financeiro,Salesforce CRM,75.0,2026-04-05,2026-08-26
+U0408,Ana Júlia Gonçalves,ana.julia.goncalves@smartcorp.com.br,Financeiro,Slack Business+,12.5,2025-02-02,2026-09-20
+U0409,Matheus Barros,matheus.barros@smartcorp.com.br,TI,VPN Corporativa,8.0,2024-09-29,2026-09-22
+U0410,Liam Brito,liam.brito@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2026-01-04,2026-09-10
+U0411,Lívia Vieira,livia.vieira@smartcorp.com.br,RH,Adobe Creative Cloud,60.0,2024-02-14,2026-09-11
+U0412,João Pedro Melo,joao.pedro.melo@smartcorp.com.br,Marketing,VPN Corporativa,8.0,2025-08-15,2026-08-23
+U0413,Ravy Machado,ravy.machado@smartcorp.com.br,Financeiro,Slack Business+,12.5,2025-05-26,2026-09-21
+U0414,Antony da Cunha,antony.da.cunha@smartcorp.com.br,Juridico,Office 365 E1,18.0,2024-04-23,2026-08-19
+U0415,Yan Siqueira,yan.siqueira@smartcorp.com.br,Comercial,Office 365 E3,35.0,2025-05-20,2026-09-01
+U0416,Brenda Vasconcelos,brenda.vasconcelos@smartcorp.com.br,RH,Adobe Creative Cloud,60.0,2024-07-04,2026-09-09
+U0417,Davi Aragão,davi.aragao@smartcorp.com.br,RH,Office 365 E1,18.0,2024-05-16,2026-08-15
+U0418,Natália Azevedo,natalia.azevedo@smartcorp.com.br,Juridico,Adobe Creative Cloud,60.0,2024-01-10,2026-09-01
+U0419,Zoe Almeida,zoe.almeida@smartcorp.com.br,RH,Slack Business+,12.5,2025-06-12,2026-09-01
+U0420,Isabella Silva,isabella.silva@smartcorp.com.br,TI,Office 365 E3,35.0,2024-02-12,2026-09-03
+U0421,Agatha Pimenta,agatha.pimenta@smartcorp.com.br,Financeiro,Office 365 E3,35.0,2024-09-07,2026-08-23
+U0422,Maria Vitória Cirino,maria.vitoria.cirino@smartcorp.com.br,RH,Power BI Pro,10.0,2025-07-14,2026-09-14
+U0423,Vinicius Fonseca,vinicius.fonseca@smartcorp.com.br,Juridico,Salesforce CRM,75.0,2023-11-28,2026-09-07
+U0424,Ísis Montenegro,isis.montenegro@smartcorp.com.br,Marketing,Adobe Creative Cloud,60.0,2025-11-13,2026-09-10
+U0425,Alícia Gomes,alicia.gomes@smartcorp.com.br,Juridico,VPN Corporativa,8.0,2026-02-07,2026-09-05
+U0426,Mathias Freitas,mathias.freitas@smartcorp.com.br,Juridico,Power BI Pro,10.0,2024-05-31,2026-09-10
+U0427,Luiz Henrique Viana,luiz.henrique.viana@smartcorp.com.br,TI,Office 365 E3,35.0,2023-11-28,2026-09-08
+U0428,Cauã Vargas,caua.vargas@smartcorp.com.br,Marketing,Power BI Pro,10.0,2025-04-23,2026-09-09
+U0429,Sr. Augusto Fogaça,sr..augusto.fogaca@smartcorp.com.br,RH,Adobe Creative Cloud,60.0,2025-03-18,2026-07-27
+U0430,Emanuella Vasconcelos,emanuella.vasconcelos@smartcorp.com.br,RH,Office 365 E3,35.0,2025-08-03,2026-08-23
+U0431,Sra. Emilly Carvalho,sra..emilly.carvalho@smartcorp.com.br,Comercial,Office 365 E1,18.0,2023-11-23,2026-07-14
+U0432,Ana Carolina da Rocha,ana.carolina.da.rocha@smartcorp.com.br,TI,Power BI Pro,10.0,2024-04-09,2026-09-11
+U0433,Asafe Dias,asafe.dias@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2026-04-08,2026-08-07
+U0434,Maria Laura Nogueira,maria.laura.nogueira@smartcorp.com.br,Comercial,Slack Business+,12.5,2025-01-05,2026-09-20
+U0435,Gabriel da Paz,gabriel.da.paz@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2024-09-11,2026-09-12
+U0436,Lucas da Mata,lucas.da.mata@smartcorp.com.br,Marketing,Salesforce CRM,75.0,2024-01-23,2026-08-18
+U0437,Dr. Murilo Souza,dr..murilo.souza@smartcorp.com.br,Financeiro,VPN Corporativa,8.0,2024-12-02,2026-09-06
+U0438,Maitê Cirino,maite.cirino@smartcorp.com.br,Juridico,Power BI Pro,10.0,2025-01-28,2026-08-30
+U0439,Maria Eduarda Moreira,maria.eduarda.moreira@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2024-06-13,2026-09-19
+U0440,Otávio Barros,otavio.barros@smartcorp.com.br,Financeiro,Salesforce CRM,75.0,2024-11-23,2026-09-03
+U0441,Yago da Rocha,yago.da.rocha@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2024-08-06,2026-08-18
+U0442,Luan Ribeiro,luan.ribeiro@smartcorp.com.br,Marketing,Power BI Pro,10.0,2024-07-12,2026-09-08
+U0443,Mariane Cavalcante,mariane.cavalcante@smartcorp.com.br,Marketing,Power BI Pro,10.0,2025-08-09,2026-09-01
+U0444,Dr. Asafe Siqueira,dr..asafe.siqueira@smartcorp.com.br,RH,VPN Corporativa,8.0,2026-02-04,2026-09-03
+U0445,Dr. João Guilherme Porto,dr..joao.guilherme.porto@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2026-05-25,2026-01-13
+U0446,Breno Rios,breno.rios@smartcorp.com.br,Juridico,Adobe Creative Cloud,60.0,2025-06-17,2026-09-08
+U0447,Sr. Arthur Casa Grande,sr..arthur.casa.grande@smartcorp.com.br,TI,Salesforce CRM,75.0,2026-01-14,2026-07-16
+U0448,Maysa Andrade,maysa.andrade@smartcorp.com.br,Comercial,Salesforce CRM,75.0,2024-01-25,2026-09-13
+U0449,Luiz Otávio Fonseca,luiz.otavio.fonseca@smartcorp.com.br,RH,Adobe Creative Cloud,60.0,2024-10-07,2026-09-11
+U0450,Ana Beatriz Pereira,ana.beatriz.pereira@smartcorp.com.br,TI,Office 365 E3,35.0,2024-02-21,2026-08-26
+U0451,Maria Eduarda Freitas,maria.eduarda.freitas@smartcorp.com.br,Comercial,Slack Business+,12.5,2024-12-07,2026-09-10
+U0452,Davi Miguel Moura,davi.miguel.moura@smartcorp.com.br,Juridico,Slack Business+,12.5,2024-09-21,2026-08-28
+U0453,Dr. Josué Camargo,dr..josue.camargo@smartcorp.com.br,Marketing,Office 365 E3,35.0,2023-10-17,2026-08-28
+U0454,Theo Moreira,theo.moreira@smartcorp.com.br,Comercial,VPN Corporativa,8.0,2024-10-11,2026-09-03
+U0455,Bárbara da Luz,barbara.da.luz@smartcorp.com.br,Comercial,Slack Business+,12.5,2025-11-01,2026-09-21
+U0456,Sra. Hadassa Pimenta,sra..hadassa.pimenta@smartcorp.com.br,RH,Office 365 E3,35.0,2024-07-02,2026-06-30
+U0457,Gabriela Campos,gabriela.campos@smartcorp.com.br,Financeiro,VPN Corporativa,8.0,2024-02-04,2026-09-02
+U0458,Rael Cavalcanti,rael.cavalcanti@smartcorp.com.br,Comercial,Office 365 E3,35.0,2026-03-05,2026-09-08
+U0459,Aurora Rodrigues,aurora.rodrigues@smartcorp.com.br,RH,Slack Business+,12.5,2026-05-12,2026-09-17
+U0460,Dr. Benício Novaes,dr..benicio.novaes@smartcorp.com.br,Comercial,Salesforce CRM,75.0,2025-03-15,2025-12-07
+U0461,Emanuel Silva,emanuel.silva@smartcorp.com.br,TI,Power BI Pro,10.0,2025-08-28,2026-09-03
+U0462,Dra. Emanuella Vieira,dra..emanuella.vieira@smartcorp.com.br,TI,Power BI Pro,10.0,2024-09-16,2026-09-12
+U0463,Davi Costa,davi.costa@smartcorp.com.br,Comercial,Salesforce CRM,75.0,2025-11-18,2026-09-01
+U0464,Thales Alves,thales.alves@smartcorp.com.br,Juridico,Salesforce CRM,75.0,2024-09-15,2026-08-26
+U0465,Maria Eduarda Martins,maria.eduarda.martins@smartcorp.com.br,TI,Slack Business+,12.5,2025-11-30,2026-08-01
+U0466,Caroline Pimenta,caroline.pimenta@smartcorp.com.br,RH,Slack Business+,12.5,2026-02-18,2026-08-24
+U0467,Leonardo Gonçalves,leonardo.goncalves@smartcorp.com.br,Financeiro,Salesforce CRM,75.0,2026-06-13,2025-12-05
+U0468,Sra. Valentina Jesus,sra..valentina.jesus@smartcorp.com.br,RH,Slack Business+,12.5,2025-10-27,2026-08-17
+U0469,Ana Sophia Cardoso,ana.sophia.cardoso@smartcorp.com.br,RH,Slack Business+,12.5,2026-05-17,2026-08-28
+U0470,Ana Sophia Machado,ana.sophia.machado@smartcorp.com.br,Juridico,Power BI Pro,10.0,2024-12-28,2026-08-31
+U0471,Manuella Cardoso,manuella.cardoso@smartcorp.com.br,Juridico,VPN Corporativa,8.0,2026-02-12,2026-05-07
+U0472,Emilly Vargas,emilly.vargas@smartcorp.com.br,TI,VPN Corporativa,8.0,2026-05-11,2026-09-11
+U0473,Sarah Araújo,sarah.araujo@smartcorp.com.br,Financeiro,Salesforce CRM,75.0,2025-12-28,2026-08-23
+U0474,Daniela da Rosa,daniela.da.rosa@smartcorp.com.br,Financeiro,Salesforce CRM,75.0,2024-03-03,2025-10-18
+U0475,Sr. Luiz Felipe Moreira,sr..luiz.felipe.moreira@smartcorp.com.br,TI,Office 365 E1,18.0,2026-03-01,2026-04-05
+U0476,José Costa,jose.costa@smartcorp.com.br,Marketing,Salesforce CRM,75.0,2025-06-15,2026-08-16
+U0477,Kamilly Cardoso,kamilly.cardoso@smartcorp.com.br,Marketing,Power BI Pro,10.0,2025-06-05,2026-08-30
+U0478,Yasmin Borges,yasmin.borges@smartcorp.com.br,Marketing,Office 365 E3,35.0,2025-02-03,2026-08-25
+U0479,Eduardo Cavalcante,eduardo.cavalcante@smartcorp.com.br,Financeiro,Office 365 E1,18.0,2025-07-09,2026-09-18
+U0480,Dra. Maitê Nunes,dra..maite.nunes@smartcorp.com.br,Marketing,Office 365 E1,18.0,2023-11-02,2026-07-04
+U0481,Bruno Aparecida,bruno.aparecida@smartcorp.com.br,TI,Power BI Pro,10.0,2026-04-23,2025-11-11
+U0482,Julia Rezende,julia.rezende@smartcorp.com.br,Financeiro,Adobe Creative Cloud,60.0,2024-04-18,2026-08-30
+U0483,Maria Vitória Pinto,maria.vitoria.pinto@smartcorp.com.br,Juridico,Adobe Creative Cloud,60.0,2025-06-19,2026-08-29
+U0484,Ísis da Rocha,isis.da.rocha@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2025-06-22,2026-09-05
+U0485,Rodrigo da Cruz,rodrigo.da.cruz@smartcorp.com.br,Financeiro,Salesforce CRM,75.0,2025-12-01,2025-10-26
+U0486,Maria Luiza da Rosa,maria.luiza.da.rosa@smartcorp.com.br,Comercial,Salesforce CRM,75.0,2024-12-16,2026-09-04
+U0487,Srta. Eduarda Macedo,srta..eduarda.macedo@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2024-11-08,2026-07-04
+U0488,Gabrielly Fernandes,gabrielly.fernandes@smartcorp.com.br,Financeiro,Slack Business+,12.5,2025-05-18,2026-08-23
+U0489,Dr. Luiz Felipe Guerra,dr..luiz.felipe.guerra@smartcorp.com.br,Financeiro,Power BI Pro,10.0,2024-01-30,2026-09-03
+U0490,Sr. Liam da Costa,sr..liam.da.costa@smartcorp.com.br,Comercial,Power BI Pro,10.0,2024-12-29,2026-09-02
+U0491,Rael da Cruz,rael.da.cruz@smartcorp.com.br,TI,Power BI Pro,10.0,2024-02-09,2026-08-24
+U0492,João Vitor Gomes,joao.vitor.gomes@smartcorp.com.br,TI,VPN Corporativa,8.0,2026-01-29,2026-06-29
+U0493,Isadora Castro,isadora.castro@smartcorp.com.br,RH,Salesforce CRM,75.0,2025-12-10,2026-09-17
+U0494,Luara Correia,luara.correia@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2025-10-21,2026-04-09
+U0495,Sophie Martins,sophie.martins@smartcorp.com.br,Comercial,Office 365 E3,35.0,2025-01-30,2026-03-02
+U0496,Theo Almeida,theo.almeida@smartcorp.com.br,TI,Salesforce CRM,75.0,2023-12-20,2025-11-23
+U0497,Sofia Marques,sofia.marques@smartcorp.com.br,Comercial,Adobe Creative Cloud,60.0,2026-05-11,2026-09-15
+U0498,Luiz Gustavo Aragão,luiz.gustavo.aragao@smartcorp.com.br,RH,Office 365 E3,35.0,2023-11-11,2026-09-22
+U0499,Olivia da Paz,olivia.da.paz@smartcorp.com.br,RH,Office 365 E3,35.0,2025-03-09,2026-07-12
+U0500,Pedro Carvalho,pedro.carvalho@smartcorp.com.br,RH,Power BI Pro,10.0,2026-02-16,2026-09-21
