@@ -1,0 +1,9 @@
+# Ignored files
+# Generated reports
+data/processed/*.xlsx
+
+# Logs and temporary files
+logs/
+__pycache__/
+*.pyc
+config/
