@@ -89,7 +89,7 @@ smartlicense-rpa/
 ├── logs/
 │   ├── execution/
 │   └── screenshots/
-├── config/                # .env etc. (ignored)
+
 ├── tests/
 │   ├── conftest.py
 │   ├── test_data_analysis.py
