@@ -97,17 +97,17 @@ smartlicense-rpa/
 ```mermaid
 
 flowchart LR
-    A[CSV (raw)] -->|read_data_users| B[DataFrame bruto]
-    B -->|clean_user_data| C[DataFrame limpo]
-    C -->|process_user_data| D[DataFrame final]
-    D -->|export_report (report_writer.py)| E[Relatório Excel]
+    A["CSV (raw)"] -->|"read_data_users"| B["DataFrame bruto"]
+    B -->|"clean_user_data"| C["DataFrame limpo"]
+    C -->|"process_user_data"| D["DataFrame final"]
+    D -->|"export_report (report_writer.py)"| E["Relatório Excel"]
 
     subgraph UI
-        F[Flask mock_server] -->|render dashboard| G[HTML tabela]
-        G -->|Selenium| H[extract_users_from_portal (web_automation.py)]
+        F["Flask mock_server"] -->|"render dashboard"| G["HTML tabela"]
+        G -->|"Selenium"| H["extract_users_from_portal (web_automation.py)"]
     end
-    H --> I[Lista de dicts (nome, email, status)]
-    I -->|opcional| D
+    H --> I["Lista de dicts (nome, email, status)"]
+    I -->|"opcional"| D
 ```
 
 
