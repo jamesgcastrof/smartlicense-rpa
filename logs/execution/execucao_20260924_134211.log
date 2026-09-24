@@ -1,0 +1,5 @@
+2026-09-24 13:42:11,370 - INFO - Iniciando execução do pipeline SmartLicense RPA.
+2026-09-24 13:42:11,374 - INFO - 500 usuários lidos do arquivo CSV.
+2026-09-24 13:42:11,385 - INFO - Status: 335 ativos, 104 em alerta, 61 inativos.
+2026-09-24 13:42:11,385 - INFO - Economia anual potencial: R$ 26826.00
+2026-09-24 13:42:11,471 - INFO - Relatório gerado com sucesso em: data/processed/relatorio_smartlicense.xlsx
