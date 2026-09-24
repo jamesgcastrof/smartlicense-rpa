@@ -109,6 +109,7 @@ flowchart LR
     I -->|opcional| D
 ```
 
+
 ---
 
 ## Decisões técnicas relevantes
