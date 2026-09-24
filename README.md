@@ -5,6 +5,11 @@
 ![Selenium](https://img.shields.io/badge/Selenium-4.49-43B02A?logo=selenium&logoColor=white)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![NumPy](https://img.shields.io/badge/NumPy-2.1.0-orange?logo=numpy&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-3.1.5-blue?logo=excel&logoColor=white)
+![python-dotenv](https://img.shields.io/badge/python--dotenv-1.0.1-green?logo=python&logoColor=white)
+![Schedule](https://img.shields.io/badge/Schedule-1.2-lightgrey?logo=clock&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-8.0-yellow?logo=pytest&logoColor=white)
 
 > **SmartLicense RPA** é um conjunto de scripts Python‑14 que automatiza a auditoria de licenças corporativas. O fluxo completo inclui:
 >
