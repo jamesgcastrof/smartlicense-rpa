@@ -113,19 +113,28 @@ smartlicense-rpa/
 ## Diagrama Mermaid (fluxo de dados completo)
 
 ```mermaid
-
 flowchart LR
     A["CSV (raw)"] -->|"read_data_users"| B["DataFrame bruto"]
     B -->|"clean_user_data"| C["DataFrame limpo"]
     C -->|"process_user_data"| D["DataFrame final"]
     D -->|"export_report (report_writer.py)"| E["Relatório Excel"]
+    E -->|"send_alert_email"| F["E‑mail enviado (opcional)"]
+
+    subgraph Run
+        G["Configurar logging"] --> H["Log em logs/execution/"]
+    end
+
+    subgraph Scheduler
+        I["iniciar_agendamento (schedule)"] --> J["run() periódico"]
+    end
 
     subgraph UI
-        F["Flask mock_server"] -->|"render dashboard"| G["HTML tabela"]
-        G -->|"Selenium"| H["extract_users_from_portal (web_automation.py)"]
+        K["Flask mock_server"] -->|"render dashboard"| L["HTML tabela"]
+        L -->|"Selenium"| M["extract_users_from_portal (web_automation.py)"]
     end
-    H --> I["Lista de dicts (nome, email, status)"]
-    I -->|"opcional"| D
+    M --> N["Lista de dicts (nome, email, status)"]
+    N -->|"opcional"| D
+```
 ```
 
 ## Logging da Execução
