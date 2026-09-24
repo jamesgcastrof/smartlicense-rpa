@@ -95,6 +95,7 @@ smartlicense-rpa/
 ## Diagrama Mermaid (fluxo de dados completo)
 
 ```mermaid
+
 flowchart LR
     A[CSV (raw)] -->|read_data_users| B[DataFrame bruto]
     B -->|clean_user_data| C[DataFrame limpo]
