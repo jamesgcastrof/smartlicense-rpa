@@ -7,3 +7,10 @@ logs/
 __pycache__/
 *.pyc
 config/
+
+# Cache de testes
+.pytest_cache/
+
+# Configuração local de ferramentas de IA (não faz parte do projeto)
+.opencode/
+AGENTS.md

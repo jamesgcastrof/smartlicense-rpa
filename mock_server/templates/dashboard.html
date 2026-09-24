@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR"
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+    <style>
+        table, th, td { border: 1px solid black; border-collapse: collapse; }
+        th, td { padding: 8px; }
+    </style>
+</head>
+<body>
+    <h1 id="titulo">Login realizado com sucesso — Painel de Usuários</h1>
+    <table id="tabela-usuarios">
+        <thead>
+            <tr><th>Nome</th><th>E-mail</th><th>Status</th></tr>
+        </thead>
+        <tbody>
+            {% for usuario in usuarios %}
+                <tr><td>{{ usuario.nome }}</td><td>{{ usuario.email }}</td><td>{{ usuario.status }}</td></tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <br>
+    <a href="/login"><button id="logout" type="button">Logout</button></a>
+</body>
+</html>
