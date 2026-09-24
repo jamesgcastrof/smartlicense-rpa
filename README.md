@@ -119,7 +119,15 @@ flowchart LR
 - **Limpeza de e‑mail por reconstrução** – o e‑mail é gerado a partir do nome já limpo, garantindo consistência.
 - **`np.select` para classificação** – permite vetorização e legibilidade ao definir múltiplas categorias.
 
-## Próximos passos
+## Histórico de alterações
+
+- **Adicionar suporte a e‑mail**: módulo `src/email_notifier.py` com envio via SMTP local (aiosmtpd) e documentação.
+- **Testes**: criado `tests/test_email_notifier.py`; todos os testes agora passam (9 testes, 0 falhas).
+- **Agendamento**: implementação de `iniciar_agendamento()` em `main.py` (2 minutos para demonstração).
+- **Dependências**: restaurado `numpy==2.1.0`; mantido `pytest>=8.0`.
+- **Limpeza de histórico**: removido o arquivo `AGENTS.md` do repositório e eliminado o rastreamento de `__pycache__`.
+- **Configuração**: pasta `config/` marcada para ser ignorada no `.gitignore` e removida do rastreamento.
+
 
 - Automatizar a extração de dados simulando login em um sistema via Selenium.
 - Enviar o relatório por e‑mail automaticamente (`smtplib`).
