@@ -97,8 +97,6 @@ smartlicense-rpa/
 │   └── templates/
 ├── logs/
 │   ├── execution/
-│   └── screenshots/
-
 ├── tests/
 │   ├── conftest.py
 │   ├── test_data_analysis.py
@@ -130,29 +128,38 @@ flowchart LR
     I -->|"opcional"| D
 ```
 
+## Logging da Execução
+
+A cada execução do pipeline (via `run()` ou agendamento) é criado um arquivo de log em **logs/execution/**, no formato `execucao_YYYYMMDD_HHMMSS.log`. Cada linha contém timestamp, nível e mensagem, por exemplo:
+
+```
+2026-09-24 13:40:10,893 - INFO - Iniciando execução do pipeline SmartLicense RPA.
+2026-09-24 13:40:10,934 - INFO - 500 usuários lidos do arquivo CSV.
+2026-09-24 13:40:10,968 - INFO - Status: 335 ativos, 104 em alerta, 61 inativos.
+2026-09-24 13:40:10,968 - INFO - Economia anual potencial: R$ 26826.00
+2026-09-24 13:40:11,360 - INFO - Relatório gerado com sucesso em: data/processed/relatorio_smartlicense.xlsx
+```
+
+- **Info**: início da execução, contagem de usuários, resumo de status, economia total e confirmação de geração do relatório.
+- **Error**: exceções registradas com stack‑trace (`logger.error(..., exc_info=True)`).
+- O logger também envia as mensagens ao console (StreamHandler), permitindo acompanhamento em tempo real.
+
 
 ---
 
 ## Decisões técnicas relevantes
 
 - **Nenhuma coluna de status pronta no dado bruto** – a inatividade é calculada a partir da data do último login, reforçando a lógica de negócio.
-- **Limpeza de e‑mail por reconstrução** – o e‑mail é gerado a partir do nome já limpo, garantindo consistência.
+
 - **`np.select` para classificação** – permite vetorização e legibilidade ao definir múltiplas categorias.
 
 ## Histórico de alterações
 
 - **Adicionar suporte a e‑mail**: módulo `src/email_notifier.py` com envio via SMTP local (aiosmtpd) e documentação.
 - **Testes**: criado `tests/test_email_notifier.py`; todos os testes agora passam (9 testes, 0 falhas).
-- **Agendamento**: implementação de `iniciar_agendamento()` em `main.py` (2 minutos para demonstração).
-- **Dependências**: restaurado `numpy==2.1.0`; mantido `pytest>=8.0`.
-- **Limpeza de histórico**: removido o arquivo `AGENTS.md` do repositório e eliminado o rastreamento de `__pycache__`.
+- Implementado logging estruturado por execução (arquivo em logs/execution/ com timestamp), substituindo prints por `logger.info`/`logger.error` e adicionando handlers de arquivo e console.
 - **Configuração**: pasta `config/` marcada para ser ignorada no `.gitignore` e removida do rastreamento.
 
-
-- Automatizar a extração de dados simulando login em um sistema via Selenium.
-- Enviar o relatório por e‑mail automaticamente (`smtplib`).
-- Agendar execuções recorrentes com a biblioteca `schedule`.
-- Cobrir o pipeline com testes automatizados (`pytest`).
 
 ## Autor
 
