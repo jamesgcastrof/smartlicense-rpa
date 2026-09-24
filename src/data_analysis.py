@@ -5,19 +5,20 @@ from datetime import datetime
 
 def process_user_data(df: pd.DataFrame) -> pd.DataFrame:
     """
-    1 Define a data de referência fixa (22/09/2026)
-    2 Calcula a quantidade de dias desde o último login
-    3 Cria a coluna "status": ativo (<=30), alerta (31-90), inativo (>90)
-    4 Calcula a economia anual projetada por usuário inativo (custo_mensal * 12)
-    5 Insere "economia_anual_inativo" no DataFrame (0 para não inativos)
+    Processa os dados de usuários, calculando dias desde o último login, status e economia anual.
 
-    Args:
-        df (pd.DataFrame): DataFrame já limpo (ver data_cleaner.py),
-            contendo as colunas 'data_ultimo_login' e 'custo_mensal_licenca'.
+    Parâmetros
+    ----------
+    df : pandas.DataFrame
+        DataFrame já limpo, contendo as colunas 'data_ultimo_login' e 'custo_mensal_licenca'.
 
-    Returns:
-        pd.DataFrame: DataFrame original com as colunas adicionais
-            'dias_ultimo_login', 'status' e 'economia_anual_inativo'.
+    Retorna
+    -------
+    pandas.DataFrame
+        DataFrame original com colunas adicionais:
+        - dias_ultimo_login
+        - status (ativo, alerta, inativo)
+        - economia_anual_inativo
     """
     ref_date = datetime(2026, 9, 22)
     df["data_ultimo_login"] = pd.to_datetime(df["data_ultimo_login"], errors="coerce")

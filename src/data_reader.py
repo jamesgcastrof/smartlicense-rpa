@@ -3,13 +3,22 @@ import pandas as pd
 
 def read_data_users(file_path):
     """
-    Reads the raw users CSV file exported from the Admin Center.
+    Lê o CSV bruto de usuários exportado do Admin Center.
 
-    Args:
-        file_path (str): Path to the CSV file to be read.
-    
-    Returns"
-        pandas.DataFrame: Raw user data, whitout any cleaning applied.
+    Parâmetros
+    ----------
+    file_path : str
+        Caminho para o arquivo CSV a ser lido.
+
+    Retorna
+    -------
+    pandas.DataFrame
+        Dados dos usuários sem limpeza.
+
+    Raises
+    ------
+    FileNotFoundError
+        Se o arquivo não for encontrado.
     """
     df = pd.read_csv(file_path)
     return df

@@ -1,16 +1,10 @@
-# src/email_notifier.py
 """
 Função: send_alert_email
-Envia um e‑mail de alerta (texto) usando um servidor SMTP local de teste
-(localhost:1025, sem autenticação). Opcionalmente anexa um arquivo
-(p. ex. o relatório Excel gerado por report_writer).
+Envia um e‑mail de alerta (texto) usando um servidor SMTP local de teste (localhost:1025, sem autenticação).
+Opcionalmente anexa um arquivo (p. ex. o relatório Excel gerado por report_writer).
 
-Nota: Este servidor SMTP local sem autenticação é usado apenas para fins
-de teste e desenvolvimento. Em produção use um servidor SMTP autenticado
-(ex.: smtp.gmail.com na porta 587 com STARTTLS) cujas credenciais são
-carregadas de variáveis de ambiente via python‑dotenv — nunca hard‑coded.
+Nota: Este servidor SMTP local sem autenticação é usado apenas para fins de teste e desenvolvimento. Em produção use um servidor SMTP autenticado (ex.: smtp.gmail.com na porta 587 com STARTTLS) cujas credenciais são carregadas de variáveis de ambiente via python‑dotenv — nunca hard‑coded.
 """
-
 import os
 import smtplib
 from email.message import EmailMessage
@@ -26,13 +20,13 @@ def send_alert_email(
 
     Parameters
     ----------
-    destinatario: str
+    destinatario : str
         Endereço de e‑mail do destinatário.
-    assunto: str
+    assunto : str
         Assunto da mensagem.
-    corpo: str
+    corpo : str
         Corpo da mensagem em texto simples.
-    anexo_path: str | None, optional
+    anexo_path : str | None, optional
         Caminho absoluto ou relativo para um arquivo a ser anexado.
         Se ``None`` ou caminho inexistente, nenhum anexo é incluído.
     """
@@ -54,10 +48,10 @@ def send_alert_email(
             server.send_message(msg)
     except ConnectionRefusedError as exc:
         raise RuntimeError(
-        "Não foi possível conectar ao servidor SMTP. "
-        "Verifique se o servidor de teste está em execução "
-        "(python -m aiosmtpd -n -l localhost:1025)."
-    ) from exc
+            "Não foi possível conectar ao servidor SMTP. "
+            "Verifique se o servidor de teste está em execução "
+            "(python -m aiosmtpd -n -l localhost:1025)."
+        ) from exc
 
 
 if __name__ == "__main__":
