@@ -53,16 +53,20 @@ testável independentemente, que recebe o resultado da etapa anterior:
 data/raw/usuarios_admin_center.csv
         │
         ▼
-   read_data_users()                → DataFrame bruto
+read_data_users()                     → DataFrame bruto
         │
         ▼
-   clean_user_data()                → nomes e‑mails corrigidos
+clean_user_data()                     → nomes e‑mails corrigidos
         │
         ▼
-   process_user_data()               → status (ativo/alerta/inativo) + economia
+process_user_data()                    → status (ativo/alerta/inativo) + economia
         │
         ▼
-   export_report() (report_writer.py) → data/processed/relatorio_smartlicense.xlsx
+export_report() (report_writer.py)    → data/processed/relatorio_smartlicense.xlsx
+        │
+        ├─► send_alert_email() (email_notifier.py) → e‑mail com anexo (opcional)
+        ├─► iniciar_agendamento() (schedule)        → execução periódica (ex.: a cada 2 min)
+        └─► logging (logs/)                         → arquivo de log por execução
 ```
 
 ### Estrutura de pastas
