@@ -40,9 +40,9 @@ projeto simula uma rotina de auditoria que:
 | Geração de relatório Excel          | ✅ Concluído |
 | Automação de extração (Selenium)    | ✅ Concluído |
 | Ambiente de teste Flask (mock_server) | ✅ Concluído |
-| Envio de alerta por e‑mail          | 🔜 Planejado |
-| Agendamento automático              | 🔜 Planejado |
-| Testes automatizados (pytest)      | 🔜 Planejado |
+| Envio de alerta por e‑mail          | ✅ Concluído |
+| Agendamento automático              | ✅ Concluído |
+| Testes automatizados (pytest)      | ✅ Concluído |
 
 ## Arquitetura
 
@@ -70,23 +70,30 @@ data/raw/usuarios_admin_center.csv
 ```
 smartlicense-rpa/
 ├── data/
-│   ├── raw/              # dado bruto, nunca editado manualmente
-│   └── processed/        # relatórios gerados (Excel)
+│   ├── raw/              # dados brutos
+│   └── processed/        # relatórios Excel gerados
 ├── src/
-│   ├── data_reader.py          # lê o CSV
-│   ├── data_cleaner.py         # corrige nomes/e‑mails malformados
-│   ├── data_analysis.py       # calcula status e economia
-│   ├── report_writer.py        # gera o Excel (aba Resumo + aba Detalhes)
-│   └── web_automation.py       # Selenium: login + extração via extract_users_from_portal()
+│   ├── data_reader.py
+│   ├── data_cleaner.py
+│   ├── data_analysis.py
+│   ├── report_writer.py
+│   ├── email_notifier.py
+│   └── web_automation.py
 ├── mock_server/
-│   ├── app.py                  # Flask mock server (rotas /login e /dashboard)
-│   └── templates/             # login.html, dashboard.html
+│   ├── app.py
+│   └── templates/
 ├── logs/
-│   ├── execution/              # logs de cada execução do robô
-│   └── screenshots/           # evidências visuais (Selenium)
-├── config/                     # variáveis de ambiente e credenciais (.env)
-├── tests/                      # testes automatizados (pytest) – ainda vazio
-├── main.py                     # ponto de entrada — orquestra o pipeline
+│   ├── execution/
+│   └── screenshots/
+├── config/                # .env etc. (ignored)
+├── tests/
+│   ├── conftest.py
+│   ├── test_data_analysis.py
+│   ├── test_data_cleaner.py
+│   ├── test_email_notifier.py
+│   ├── test_pipeline_integration.py
+│   └── test_report_writer.py
+├── main.py
 ├── gerar_dados_simulados.py
 ├── requirements.txt
 └── README.md
