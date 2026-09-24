@@ -6,14 +6,18 @@
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-Sistema de RPA (Robotic Process Automation) que audita licenças e acessos
-de usuários corporativos, identifica contas inativas, projeta a economia
-financeira ao revogar essas licenças e gera um relatório executivo em
-Excel — como parte de um projeto de portfólio em Engenharia de Dados.
-
-> Projeto simulado: os dados de usuários são gerados artificialmente
-> (não é uma integração real com nenhum Admin Center), especificamente
-> para praticar limpeza de dados, ETL e automação de ponta a ponta.
+> **SmartLicense RPA** é um conjunto de scripts Python‑14 que automatiza a auditoria de licenças corporativas. O fluxo completo inclui:
+>
+> 1. **Leitura** do CSV exportado do (simulado) Admin Center.  
+> 2. **Limpeza** de nomes e reconstrução de e‑mails (remoção de títulos, normalização de acentos).  
+> 3. **Classificação** de usuários em *ativo*, *alerta* ou *inativo* a partir da data do último login, com cálculo da economia anual para contas inativas.  
+> 4. **Geração** de um relatório Excel contendo duas abas (“Resumo” e “Detalhes”).  
+> 5. **Envio automático** do relatório por e‑mail via um servidor SMTP local de teste (aiosmtpd).  
+> 6. **Agendamento** da execução completa (exemplo: a cada 2 minutos para demonstração, facilmente configurável para execução diária).  
+> 7. **Visualização** dos resultados em um mock server Flask com páginas de login e dashboard.  
+> 8. **Cobertura de testes** completa (9 testes + integração) usando pytest, garantindo que cada componente funcione isoladamente e em conjunto.  
+>
+> Tudo isso está organizado como um projeto de portfólio em **Engenharia de Dados**, pronto para ser expandido (por exemplo, integrando um servidor SMTP real, ajustando o agendamento para cron diário ou adicionando novos conectores de fonte de dados).
 
 ---
 
